@@ -1,0 +1,10 @@
+C:\Users\ninhn\source\repos\ATM_Delegate_EventHandler\ATM_Delegate_EventHandler\bin\Debug\ATM_Delegate_EventHandler.exe.config
+C:\Users\ninhn\source\repos\ATM_Delegate_EventHandler\ATM_Delegate_EventHandler\bin\Debug\ATM_Delegate_EventHandler.exe
+C:\Users\ninhn\source\repos\ATM_Delegate_EventHandler\ATM_Delegate_EventHandler\bin\Debug\ATM_Delegate_EventHandler.pdb
+C:\Users\ninhn\source\repos\ATM_Delegate_EventHandler\ATM_Delegate_EventHandler\obj\Debug\ATM_Delegate_EventHandler.csprojAssemblyReference.cache
+C:\Users\ninhn\source\repos\ATM_Delegate_EventHandler\ATM_Delegate_EventHandler\obj\Debug\ATM_Delegate_EventHandler.Form1.resources
+C:\Users\ninhn\source\repos\ATM_Delegate_EventHandler\ATM_Delegate_EventHandler\obj\Debug\ATM_Delegate_EventHandler.Properties.Resources.resources
+C:\Users\ninhn\source\repos\ATM_Delegate_EventHandler\ATM_Delegate_EventHandler\obj\Debug\ATM_Delegate_EventHandler.csproj.GenerateResource.cache
+C:\Users\ninhn\source\repos\ATM_Delegate_EventHandler\ATM_Delegate_EventHandler\obj\Debug\ATM_Delegate_EventHandler.csproj.CoreCompileInputs.cache
+C:\Users\ninhn\source\repos\ATM_Delegate_EventHandler\ATM_Delegate_EventHandler\obj\Debug\ATM_Delegate_EventHandler.exe
+C:\Users\ninhn\source\repos\ATM_Delegate_EventHandler\ATM_Delegate_EventHandler\obj\Debug\ATM_Delegate_EventHandler.pdb
